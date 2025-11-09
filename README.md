@@ -86,6 +86,8 @@ Here's a summarized version of the steps to create the Road Accident Dashboard:
 This data analysis project will provide valuable insights into road accidents, highlighting crucial KPIs and their associations with various factors. 
 The Excel dashboard will facilitate the stakeholders in understanding the patterns, trends, and areas of concern related to road safety for the years 2021 and 2022.
 
+![Road Accident Dashboard](./Images/Road_Accident_Dashboard_img.png)
+
 ![Road Accident Dashboard](Images/Road_Accident_Dashboard_img.png)
 
 
