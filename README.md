@@ -95,3 +95,5 @@ The Excel dashboard will facilitate the stakeholders in understanding the patter
 
 ## Dashboard Image
 ![Road Accident Analysis](./Images/Road_Accident_Analysis_img.png)
+
+![Road Accident Dashboard](./Road-Accident-Analysis/Images/Road_Accident_Dashboard_img.png)
