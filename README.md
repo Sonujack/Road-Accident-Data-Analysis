@@ -92,3 +92,6 @@ The Excel dashboard will facilitate the stakeholders in understanding the patter
 
 
 ![alt text](Road_Accident_Analysis_img.png)
+
+## Dashboard Image
+![Road Accident Analysis](./Images/Road_Accident_Analysis_img.png)
